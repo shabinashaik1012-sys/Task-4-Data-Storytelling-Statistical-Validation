@@ -53,4 +53,4 @@ This project focuses on analyzing sales data to identify business insights using
 - Focus on customer retention.
 
 ## Author
-**N. Yasaswini**
+**SK. Shabeena**
